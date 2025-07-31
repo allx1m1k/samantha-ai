@@ -1,0 +1,15 @@
+{
+  "name": "mobile-webpage-project",
+  "version": "1.0.0",
+  "description": "A mobile-friendly web page with an input field and a button that interacts with an external API.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "live-server public",
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
