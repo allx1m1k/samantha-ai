@@ -43,7 +43,7 @@ To get started with this project, follow these steps:
 
 The project utilizes the following API endpoint:
 ```
-https://n8n.ua2012.org.ua/webhook-test/b0f486cf-61bf-459d-bc8e-776ecd1feafd
+NDA
 ```
 
 ## License
